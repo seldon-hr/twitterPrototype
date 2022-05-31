@@ -3,12 +3,12 @@
 }
 
 .header--icon {
-    color: var(--brand-color);
+    color: var(--brand-dark-mode-color);
     font-size: 30px;
 }
 
 .header--icon__ {
-
+    
 }
 
 .main-tittles {
